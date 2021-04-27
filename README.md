@@ -19,6 +19,6 @@ I'm a Professional Problem Solver and Spring Developer & Advocate at VMware, con
 
 Soy Solucionador Profesional de Problemas y Spring Developer + Advocate, ponente, y autor enfocado en el desarrollo de software para el Internet of Things (IoT) y la nube.
 
-Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a preview of my new book, due by September 2020!
+Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a free preview of my new book!
 
 ![Spring Boot Up and Running!](https://github.com/mkheck/mkheck/blob/master/COVER_B%26W_SBUR.png)
