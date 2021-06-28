@@ -15,10 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Professional Problem Solver and Spring Developer & Advocate at VMware, conference speaker, published author, & Java Champion focusing upon developing innovative production-ready software at velocity for the Cloud.
+I'm a software developer & Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. If you'd like, you can follow me on Twitter @mkheck, it's my home away from home. :)
 
-Soy Solucionador Profesional de Problemas y Spring Developer + Advocate, ponente, y autor enfocado en el desarrollo de software para el Internet of Things (IoT) y la nube.
-
-Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a free preview of my new book!
+Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a free trial of my new book!
 
 ![Spring Boot Up and Running!](https://github.com/mkheck/mkheck/blob/master/COVER_B%26W_SBUR.png)
