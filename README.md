@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer & Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. If you'd like, you can follow me on Twitter @mkheck, it's my home away from home. 🧑🏻‍💻
+I'm a software developer & Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. If you'd like, you can follow me on Twitter [@mkheck](https://twitter.com/mkheck), it's my home away from home. 🧑🏻‍💻
 
 Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a free trial of my new book!
 
