@@ -15,8 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer & Cloud Developer Advocate for Java/JVM Languages at Microsoft, conference speaker, Java Champion, and Kotlin Developer Expert focused on developing innovative production-ready software at velocity for cloud and edge computing platforms. If you'd like, you can follow me on Twitter [@mkheck](https://twitter.com/mkheck), it's my home away from home. 🧑🏻‍💻
+I'm Senior Director of Field Engineering at [Moderne](https://moderne.ai), creators of [OpenRewrite](https://docs.openrewrite.org/). I'm also a frequent conference speaker and Java Champion obsessed with:
 
-Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a free trial of my new book!
+- Helping you develop and deploy software to production securely
+- Keeping your software stack current, performant, secure, and available
+- Helping you maximize your ROI and minimize your headaches
+
+To stay informed of what I'm doing, please follow me at:
+
+- LinkedIn [markheckler](https://www.linkedin.com/in/markheckler/)
+- X [@mkheck](https://X.com/mkheck)
+- Mastodon [mkheck](https://mastodon.cloud/@mkheck)
+- BlueSky [mkheck.bsky.social](https://bsky.app/profile/mkheck.bsky.social)
+
+Please visit the [Spring Boot Up and Running site](https://bitly.com/springbootbook) for a free trial of my book!
 
 ![Spring Boot Up and Running!](https://github.com/mkheck/mkheck/blob/master/COVER_B%26W_SBUR.png)
