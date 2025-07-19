@@ -24,7 +24,7 @@ I'm Senior Director of Field Engineering at [Moderne](https://moderne.ai), creat
 To stay informed of what I'm doing, please follow me at:
 
 - LinkedIn [markheckler](https://www.linkedin.com/in/markheckler/)
-- X [@mkheck](https://X.com/mkheck)
+- X [mkheck](https://X.com/mkheck)
 - Mastodon [mkheck](https://mastodon.cloud/@mkheck)
 - BlueSky [mkheck.bsky.social](https://bsky.app/profile/mkheck.bsky.social)
 
